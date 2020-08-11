@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prefix_trie", "prefix_trie\prefix_trie.csproj", "{D81F84C2-21BC-4327-8BF5-34C6FD23ABBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D81F84C2-21BC-4327-8BF5-34C6FD23ABBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81F84C2-21BC-4327-8BF5-34C6FD23ABBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81F84C2-21BC-4327-8BF5-34C6FD23ABBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81F84C2-21BC-4327-8BF5-34C6FD23ABBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {824FDF04-197D-4524-BB4E-F2AF33CE90FB}
+	EndGlobalSection
+EndGlobal
